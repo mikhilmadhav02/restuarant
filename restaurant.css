@@ -1,0 +1,283 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Nanum+Myeongjo&family=Orbitron&family=Space+Grotesk:wght@300&family=Ubuntu:wght@300&display=swap');
+#logo{ font-size: 40px;
+    color: rgb(219, 5, 59);
+    margin-left: 20px;
+    margin-top: 170px;
+}
+#home{
+    margin-left: 30px;
+    padding-top: 6px;
+}
+#menu{
+    margin-left: 130px;
+    margin-top: -17px;
+
+}
+#order{
+    margin-left: 220px;
+    margin-top:-19px;
+    
+}
+#contact{
+    margin-left: 320px;
+    margin-top:-18px;
+    
+}
+#head{
+    font-size: 50px;
+    color: rgb(193, 96, 61);
+    margin-left:70px ;
+    margin-top:-58px;
+}
+#lhead{
+    color: rgb(91, 25, 152);
+    margin-left: 63px;
+    margin-top: -11px;
+    font-size:15px
+}
+#fp{
+    color: rgb(99, 36, 158);
+    margin-left:200px;
+    margin-top:270px;
+    font-size: 15px;
+}
+#sp{
+    color: rgba(159, 82, 35, 0.774);
+    margin-left:110px;
+    margin-top: px;
+    font-size: 40px;
+}#obutton{
+    width:105px;
+    height:22px;
+    align-items:center;
+    justify-content: space-evenly;
+    color: rgb(17, 13, 13);
+    background-color: rgb(239, 201, 13);
+    margin-top:6px ;
+    margin-left: 250px;
+    padding-top: 5px;
+  
+    
+}
+
+/* last page */
+.lastdiv{
+     margin-top: 23px;
+   margin-left:7px;
+    margin-top: px;
+    padding-top:px;
+    width: 100%;
+    height:570px ;
+
+}
+/* flex */
+#hflex{
+    justify-content: space-evenly;
+    align-items: ce;
+    display :flex;
+    width:100%;
+    height:500px;
+    margin-top: -120px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#bflex{
+    width:20%;
+    height:200px;
+    text-align: center;
+    background-colo: black;
+    
+}
+#bflex h3{
+    font-family: 'Nanum Myeongjo', serif;
+    color: rgba(11, 11, 148, 0.874);
+}
+#bflex p{
+    font-family: 'Ubuntu', sans-serif;
+    color: rgba(12, 12, 8, 0.968);
+}
+.mimg{
+    width:80%;
+    height:185px;
+    border-radius: 70%;
+}
+
+/* main menu */
+#mflex{
+    padding-top: 20px;
+    margin-top:50px ;
+    margin-bottom:0px;
+    width: 100%;
+    height: 360px;
+    display:flex;
+    background-colo: rgb(250, 249, 249);
+     justify-content: space-evenly;
+
+}
+.nflex{
+    width: 20%;
+    height: 400px;
+}
+.simg{
+    padding-left: 52px;
+    width: 60%;
+    height: 140px;
+    border-radius:10px;
+    
+}
+.h2{
+    color: crimson;
+    font-family: 'Ubuntu', sans-serif;
+}
+.p2{
+    color: rgb(3, 33, 99);
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 4mm;
+}
+.button4{
+background-color: rgba(12, 10, 87, 0.856);
+border:0px;
+color: rgba(246, 246, 244, 0.95);
+}
+
+
+.links{
+    width:400px ;
+    height:30px ;
+    margin-left: 855px;
+    margin-top: -76px;
+    background-color:rgba(3, 45, 3, 0.564);
+    align-items: center;
+    color:darkgray;
+    font-weight: bold;
+}
+#nimg{
+width: 100%;
+}
+
+
+.fback{
+    margin-left:-7px;
+    width: 100%;
+    height: 800px;
+    padding-top: 1px;
+    padding-right: 200px;
+    
+    
+    margin-top: -155px;
+
+    background-image: url(https://images.pexels.com/photos/1028599/pexels-photo-1028599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-size: cover;
+    background-attachment: ;
+    
+    
+}
+.secondpage1{
+    margin-left: 7px;
+    margin-top:85px;
+    padding-top:100px;
+    background-color:rgba(230, 229, 229, 0.68);
+    width: 100%;
+    height: 700px;
+    background-attachment: fixed;
+}
+    
+#special1{
+    background-colo: blueviolet;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+   
+    margin-left: px;
+    margin-top:px;
+    padding-top:px;
+    font-weight:bold;
+}
+    
+
+ #special1 h2{
+    font-family: 'Orbitron', sans-serif;
+    color: crimson;
+    font-weight:bold;
+}
+ #special1 p{
+    color: rgba(4, 4, 247, 0.884);
+    padding-top:-5px;
+    margin-top:-12px ;
+    font-family: 'Orbitron', sans-serif;
+}
+    
+
+#thirdpage{
+    margin-left: 7px;
+    margin-top: 9px;
+    width: 100%;
+    height: 600px;
+   display: flex;
+   background-color: rgb(207, 215, 211);
+}
+.thirdimage{
+    width: 30%;
+    height: 300px;
+    margin-top: 150px;
+    margin-left: 120px;
+    border-radius:30% ;
+}
+#spara{
+    color: rgb(61, 104, 32);
+    margin-left: 150px;
+    margin-top: 120px;
+}
+#spara h1{
+    font-size: xx-large;
+}
+#spara p{
+    font-size: large;
+}
+#nav{
+    display:flex;
+    width:100% ;
+    height: 90px;
+    background-color: rgb(5, 5, 59);
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: -30px;
+
+}
+#nav ul{
+    pa
+}
+    
+
+#nav ul li{
+ 
+    list-style:none;
+    
+    
+   
+
+    
+}
+#nav #one{
+    margin-left: 0px;
+}
+.navh{
+    padding-top: 10px;
+    color: rgba(185, 185, 13, 0.936);
+    font-size: 5.5mm;
+    font-family: 'Dancing Script', cursive;
+    margin-top: -10px;
+
+}
+.navb{
+    
+    color: rgba(204, 197, 197, 0.626);
+    font-size: 3mm;
+    font-family: 'Ubuntu', sans-serif;
+}
+body{
+    
+    background-color:rgba(165, 165, 158, 0.858);
+}
+::-webkit-scrollbar{
+    display: none;
+}
